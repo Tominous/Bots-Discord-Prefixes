@@ -34,6 +34,14 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `tam!` - The Anime Moderator#5402 (LewisTehMinerz#6312)
 - `TTBot-` - TTtie Bot#8141 (TTtie#4719)
 - `*` - Creeper#8003 (TomCreeper#1954)
+- `**` - DJ Creeper#3673 (TomCreeper#1954)
+- `-` - Aethex#0394 
+- `?` - Dyno#3861 (NoobLanceTM#3500)
+- `!` - Mee6#4876 
+- `!:` - Pugbutts the Offical Rebot#7644
+- `.` - Some Dragon#9190 (Robin#0052)
+- `!` - Gravebot#8176
+- `!` - Gerald#7099
 
 ## Contributing
 Make a pull request, adding your own prefix to the list in alphabetical order (excluding the example). Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
