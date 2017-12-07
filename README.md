@@ -33,8 +33,8 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `snake` - snake#0555 (AnonymousDapper#7467)
 - `tam!` - The Anime Moderator#5402 (LewisTehMinerz#6312)
 - `TTBot-` - TTtie Bot#8141 (TTtie#4719)
-- `*` - Creeper#8003 (TomCreeper#1954)
-- `**` - DJ Creeper#3673 (TomCreeper#1954)
+- `!` - Creeper#8003 (Coder#1954)
+- `?` - Septic Beta#3673 (SepticCoder#1954)
 - `-` - Aethex#0394 
 - `?` - Dyno#3861 (NoobLanceTM#3500)
 - `!` - Mee6#4876 
